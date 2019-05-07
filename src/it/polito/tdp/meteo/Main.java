@@ -1,5 +1,6 @@
 package it.polito.tdp.meteo;
 
+import it.polito.tdp.model.Model;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

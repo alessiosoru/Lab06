@@ -5,6 +5,7 @@ import java.time.Month;
 import java.util.ResourceBundle;
 
 import it.polito.tdp.meteo.bean.Citta;
+import it.polito.tdp.model.Model;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;

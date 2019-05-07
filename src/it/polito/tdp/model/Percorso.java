@@ -1,4 +1,4 @@
-package it.polito.tdp.meteo;
+package it.polito.tdp.model;
 
 import java.util.ArrayList;
 import java.util.List;
